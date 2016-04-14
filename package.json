@@ -5,7 +5,7 @@
   "main": "push.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoryNunn/gaffa-push.git"
+    "url": "git+https://github.com/KoryNunn/gaffa-push.git"
   },
   "bugs": {
     "url": "https://github.com/KoryNunn/gaffa-push/issues"
@@ -18,5 +18,10 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/KoryNunn/gaffa-push#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
