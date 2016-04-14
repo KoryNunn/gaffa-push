@@ -1,7 +1,7 @@
 {
   "name": "gaffa-push",
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "push.js",
   "repository": {
     "type": "git",
